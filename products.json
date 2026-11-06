@@ -1,0 +1,24 @@
+[
+  {
+    "categoria": "Bahiuts",
+    "clave": "12345",
+    "descripcion": "",
+    "id": 2,
+    "imagen": "images/prod_2.jpg",
+    "nombre": "Unidad Bahíut /120",
+    "precio": 240000.0,
+    "tipo": "producto",
+    "unidad": "Unidad"
+  },
+  {
+    "categoria": "vestidores",
+    "clave": "578",
+    "descripcion": "",
+    "id": 1,
+    "imagen": "images/prod_1.jpg",
+    "nombre": "Unidad Placar Vestidor /120",
+    "precio": 290000.0,
+    "tipo": "producto",
+    "unidad": "Unidad"
+  }
+]
